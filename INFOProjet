@@ -1,0 +1,30 @@
+Votre gestionnaire d'anniversaires personnel
+bdayjps est une application web intuitive et conviviale conçue pour vous aider à garder une trace des anniversaires de vos proches. Elle vous permet de centraliser toutes les informations importantes dans un seul endroit, et de ne plus jamais oublier une date importante.
+
+Fonctionnalités clés :
+Profil personnalisé: Créez un profil unique et ajoutez vos informations personnelles.
+Gestion de contacts: Ajoutez, modifiez et supprimez facilement les informations de vos contacts (nom, date de naissance, etc.).
+Calendrier des anniversaires: Consultez un calendrier clair et coloré affichant les anniversaires à venir.
+Notifications: Recevez des alertes personnalisées avant chaque anniversaire pour ne rien oublier.
+Flux d'activité: Suivez l'activité de vos amis, les anniversaires passés et à venir.
+Fonctionnalités sociales: Souhaitez un joyeux anniversaire directement sur le profil de vos amis, commentez et aimez les publications.
+Intégration avec un calendrier: Synchronisez vos anniversaires avec votre calendrier préféré pour une organisation optimale.
+Personnalisation: Choisissez un thème et une image de fond pour personnaliser votre expérience.
+Les avantages de bdayjps :
+Simplicité d'utilisation: L'interface intuitive rend l'application facile à prendre en main pour tous.
+Personnalisation: Adaptez l'application à vos besoins et à vos goûts.
+Fiabilité: Ne plus jamais oublier un anniversaire grâce aux notifications personnalisées.
+Communauté: Partagez des moments de joie avec vos amis et votre famille.
+Technologies utilisées :
+Front-end: EJS, JavaScript, CSS
+Back-end: Node.js, Express.js, MongoDB
+Autres: Passport.js, Jest
+Public cible :
+Particuliers: Tous ceux qui souhaitent organiser leur vie sociale et ne plus jamais oublier un anniversaire.
+Familles: Pour gérer les anniversaires de tous les membres de la famille.
+Groupes d'amis: Pour rester connecté et célébrer les anniversaires ensemble.
+Objectifs futurs :
+Développement de nouvelles fonctionnalités: Ajout d'un système de cadeaux, intégration avec les réseaux sociaux, etc.
+Amélioration de l'expérience utilisateur: Optimisation de l'interface, correction des bugs et ajout de nouvelles fonctionnalités demandées par les utilisateurs.
+Promotion de l'application: Mise en place d'une stratégie de marketing pour faire connaître bdayjps à un plus large public.
+bdayjps, c'est bien plus qu'un simple gestionnaire d'anniversaires, c'est un outil pour renforcer les liens sociaux et créer des souvenirs inoubliables.
